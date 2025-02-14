@@ -2,7 +2,7 @@
 <h2> Data Analyst/Data Scientist </h2>
 
 <h2>About Me </h2>
-Hello! I’m a Data Analyst with a background in Civil Engineering and Cost Estimation. With over a year of experience in the construction industry, I transitioned into Data Analytics to apply my analytical skills and engineering knowledge in extracting meaningful insights from data. I have developed proficiency in using tools such as Python, SQL, Power BI, and Tableau for data analysis and visualization. Through my GitHub portfolio, I showcase my journey in Data Analytics and the projects I’ve worked on, aiming to help organizations leverage data to optimize processes and make informed decisions.
+With over a year of experience in the construction industry, I transitioned into Data Analytics to apply my analytical skills and engineering knowledge in extracting meaningful insights from data. I have developed proficiency in using tools such as Python, SQL, Power BI, and Tableau for data analysis and visualization. Through my GitHub portfolio, I showcase my journey in Data Analytics and the projects I’ve worked on, aiming to help organizations leverage data to optimize processes and make informed decisions.
 
 <h2>Projects</h2>
 
