@@ -7,4 +7,5 @@ With over a year of experience in the construction industry, I transitioned into
 <h2>Projects</h2>
 
 - [Pizza Sales Performance Analysis](https://github.com/sofwankaji/Pizza-Sales-Performance-Analysis)
+- [Road Accident Dashboard](https://github.com/sofwankaji/Road-Accident-Dashboard)
 - [Customer Clustering](https://github.com/sofwankaji/Customer-Clustering)
